@@ -1,0 +1,30 @@
+.header {
+  background: linear-gradient(135deg, rgba(17, 24, 39, 0.85), rgba(55, 65, 81, 0.75));
+  border-bottom: 1px solid rgba(148, 163, 184, 0.12);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(14px);
+}
+
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.2rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #f8fafc;
+}
+
+.header-subtitle {
+  margin: 0.25rem 0 0;
+  color: rgba(226, 232, 240, 0.75);
+  font-size: 0.9rem;
+}
