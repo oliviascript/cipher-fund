@@ -1,4 +1,4 @@
-# Zama Fund - Confidential Fundraising Platform
+# Cipher Fund - Confidential Fundraising Platform
 
 A privacy-preserving fundraising platform built with Fully Homomorphic Encryption (FHE) technology, enabling transparent campaign creation while keeping donation amounts and contributor rewards completely confidential.
 
@@ -21,7 +21,7 @@ A privacy-preserving fundraising platform built with Fully Homomorphic Encryptio
 
 ## Overview
 
-**Zama Fund** is a next-generation crowdfunding platform that leverages Zama's FHEVM (Fully Homomorphic Encryption Virtual Machine) to enable confidential fundraising campaigns on the blockchain. Unlike traditional crowdfunding platforms where all donation amounts are publicly visible, Zama Fund encrypts donation data on-chain while still allowing computation and verification without revealing sensitive information.
+**Cipher Fund** is a next-generation crowdfunding platform that leverages Zama's FHEVM (Fully Homomorphic Encryption Virtual Machine) to enable confidential fundraising campaigns on the blockchain. Unlike traditional crowdfunding platforms where all donation amounts are publicly visible, Cipher Fund encrypts donation data on-chain while still allowing computation and verification without revealing sensitive information.
 
 The platform consists of:
 - **Smart Contracts**: Solidity contracts deployed on Sepolia testnet using FHEVM
